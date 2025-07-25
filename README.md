@@ -5,16 +5,16 @@ This Bash script automates advanced DNS reconnaissance tasks as part of ethical 
 
 📁 Features:
 -----------
-✔️ DNS record enumeration (ANY, A, MX, NS, TXT, AAAA)
-✔️ Zone Transfer checks (AXFR)
-✔️ Subdomain brute-forcing
-✔️ Email verification record checks (SPF, DKIM, DMARC)
-✔️ DNSSEC status inspection
-✔️ Reverse DNS lookup on adjacent IPs
-✔️ Wildcard DNS detection
-✔️ Passive enumeration via Amass
-✔️ DNSRecon full scan
-✔️ DNS Cache snooping test
+- ✔️ DNS record enumeration (ANY, A, MX, NS, TXT, AAAA)
+- ✔️ Zone Transfer checks (AXFR)
+- ✔️ Subdomain brute-forcing
+- ✔️ Email verification record checks (SPF, DKIM, DMARC)
+- ✔️ DNSSEC status inspection
+- ✔️ Reverse DNS lookup on adjacent IPs
+- ✔️ Wildcard DNS detection
+- ✔️ Passive enumeration via Amass
+- ✔️ DNSRecon full scan
+- ✔️ DNS Cache snooping test
 
 🛠 Requirements:
 ---------------
