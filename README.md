@@ -20,8 +20,8 @@ This Bash script automates advanced DNS reconnaissance tasks as part of ethical 
 ---------------
 - Kali Linux / Parrot OS
 - `dig`, `host`, `dnsrecon`, `amass`
-Install missing tools via:
-    sudo apt install dnsutils dnsrecon amass
+-Install missing tools via:
+   - sudo apt install dnsutils dnsrecon amass
 
 🚀 Usage:
 --------
